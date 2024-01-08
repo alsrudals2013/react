@@ -62,11 +62,7 @@
         작성일: '2023/12/29'
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
-    "name": "typicode"
+    "name": "alsrudals2013"
   }
 }
